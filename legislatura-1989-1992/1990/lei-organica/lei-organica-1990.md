@@ -279,15 +279,18 @@ XXXIV - dispor sobre o depósito e venda de animais e mercadorias apreendidas em
 XXXV - dispor sobre o registro, vacinação e captura de animais, com a finalidade precípua de erradicar as moléstias de que possam ser portadores ou transmissores;
 XXXVI - estabelecer e impor penalidades por infração de suas leis e regulamentos;
 XXXVII - promover os seguintes serviços:
+
 a) mercados, feiras e matadouros;
 b) construção e conservação de estradas e caminhos municipais;
 c) transporte coletivos estritamente municipais;
 d) iluminação pública.
+
 XXXVIII - regulamentar ou serviço de carros de aluguel, inclusive o uso de taxímetro;
 XXXIX - assegurar a expedição de certidões requeridas às repartições administrativas municipais, para defesa de direitos e esclarecimento de situações, estabelecendo os prazos de atendimento;
 XL - manter contato com as entidades representativas das comunidades situadas na Região dos Lagos, autoridades das três esferas do governo e quaisquer outras entidades nacionais ou estrangeiras cuja atuação e objetivos sejam úteis à integração e desenvolvimento, estimulando o associativismo e dando cumprimento ao disposto no parágrafo único do artigo 5º.
 
 **Parágrafo Único.** As normas de loteamento a que se refere o inciso XIV deste artigo, deverão exigir reserva de áreas destinadas a:
+
 a) zonas verdes e demais logradouros públicos;
 b) vias de tráfego e de passagem de canalizações públicas, de esgotos e de águas pluviais nos fundos dos vales;
 c) passagem de canalizações públicas de esgotos e de águas pluviais, com largura mínima de dois metros nos fundos de lotes, cujo desnível seja superior a um metro da frente ao fundo.
