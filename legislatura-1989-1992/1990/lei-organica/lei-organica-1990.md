@@ -440,6 +440,8 @@ XXVII - os funcionários da administração pública direta, colocados à dispos
 
 **§ 8º** É vedada ao poder Público, direta ou indiretamente, a publicidade de qualquer natureza, fora do território do Município, para fins de propaganda governamental.
 
+~~**Art. 54.**~~
+
 **Art. 54.** A nomeação para cargo de Provimento em Comissão, assim criados por Lei, dar-se-á nos termos do artigo 37, II, "in fine" da Constituição Federal e a Constituição Estadual, artigo 77 inciso VIII. [(Redação dada pela Emenda à Lei Orgânica nº 10, de 1997)](/legislatura-1997-2000/1997/lei-organica/ELO-00010-1997.md)
 
 **Art. 55.** Qualquer que seja a "causa mortis" do funcionário público, será de 100% (cem por cento) da remuneração total o valor mínimo da pensão devida a seus dependentes, na forma da lei.
@@ -1029,7 +1031,7 @@ III - para desempenhar missões temporárias de caráter cultural ou de interess
 
 **§ 5º** Inexistindo número legal, o Vereador mais idoso dentre os presentes permanecerá na presidência e convocará sessões diárias, até que seja eleita a Mesa.
 
-~~**§ 6º** A eleição da Mesa, para o segundo biênio de cada legislatura far-se-á na última sessão do primeiro biênio, e os eleitos tomarão posse no primeiro dia útil do biênio seguinte. [(Inluído pela Emenda à Lei Orgânica nº 36, de 06.04.2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00036-2010.md)~~
+~~**§ 6º** A eleição da Mesa, para o segundo biênio de cada legislatura far-se-á na última sessão do primeiro biênio, e os eleitos tomarão posse no primeiro dia útil do biênio seguinte. [(Inluído pela Emenda à Lei Orgânica nº 36, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00036-2010.md)~~
 
 ~~**§ 6º** A eleição da Mesa, para o segundo biênio de cada legislatura, far-se-á na última sessão do segundo período do segundo ano legislativo, tomando posse os eleitos no primeiro dia útil do biênio seguinte. [(Redação dada pela Emenda à Lei Orgânica nº 41, de 2014)](/legislatura-2013-2016/2014/lei-organica/ELO-00041-2014.md)~~
 
@@ -1501,32 +1503,94 @@ XXXVII - enviar à Câmara toda a documentação relativa à celebração daquil
 
 **Parágrafo Único.** O Prefeito será julgado, pela prática de crime de responsabilidade, perante o Tribunal de Justiça do Estado.
 
-**Art. 132.** As infrações político-administrativas do Prefeito, de julgamento pela Câmara Municipal, são as especificadas na lei federal.
+~~**Art. 132.** As infrações político-administrativas do Prefeito, de julgamento pela Câmara Municipal, são as especificadas na lei federal.~~
 
-**§ 1º** A denúncia de infração político-administrativas, exposta de forma circunstanciada com indicação de provas, será apresentada ao Presidente da Câmara Municipal:
+~~**§ 1º** A denúncia de infração político-administrativas, exposta de forma circunstanciada com indicação de provas, será apresentada ao Presidente da Câmara Municipal:~~
 
-I - por qualquer Vereador, que ficará neste caso, impedido de votar sobre a denúncia e de integrar a comissão processante, podendo, todavia, praticar todos os atos de acusação;
-II - por partido político;
-III - por qualquer eleitor inscrito no Município;
+~~I - por qualquer Vereador, que ficará neste caso, impedido de votar sobre a denúncia e de integrar a comissão processante, podendo, todavia, praticar todos os atos de acusação;~~
 
-**§ 2º** De posse da denúncia, o Presidente da Câmara Municipal, na primeira reunião, determinará sua leitura, consultando o plenário sobre o seu recebimento, pelo voto de maioria dos presentes.
+~~II - por partido político;~~
 
-**§ 3º** O processo de julgamento obedecerá as normas seguintes:
+~~III - por qualquer eleitor inscrito no Município;~~
 
-I - recebida a denúncia, na mesma reunião, será constituída Comissão Especial de três Vereadores, sorteados entre os desimpedidos, que, desde logo, elegerão o Presidente e o Relator da Comissão;
-II - no prazo de cinco dias, o Presidente da Comissão iniciará os trabalhos, notificando o denunciado, com remessa de cópia da denúncia e dos documentos que a intuírem para que no prazo de dez dias, o denunciado ofereça defesa prévia, por escrito, indicando as provas que pretenda produzir e arrole testemunhas, até o máximo de dez;
-III - decorrido o prazo de defesa prévia, a Comissão processante emitirá parecer dentro de cinco dias, opinando pelo prosseguimento da denúncia, o qual, neste caso, será submetido à apreciação da Câmara Municipal, que conhecerá ou não da denúncia pelo voto da maioria absoluta dos seus membros;
-IV - rejeitada a denúncia, a mesma será arquivada;
-V - conhecida a denúncia, poderá a Câmara Municipal, pelo voto de dois terços dos seus membros, afastar o Prefeito de suas funções;
-VI - afastado ou não o Prefeito, o Presidente da Comissão designará desde logo, o início da instrução e determinará, no prazo de setenta e duas horas, os atos, diligências e audiências que se fizerem necessárias, para o depoimento do denunciado e inquirição das testemunhas;
-VII - o denunciado deverá ser intimado de todos os atos do processo, pessoalmente, ou na pessoa de seu procurador, com antecedência, pelo menos, de vinte e quatro horas, sendo-lhe permitido assistir às diligências e audiências, bem como inquirir as testemunhas e requerer o que for de interesse da defesa;
-VIII - concluída a instrução, será aberta vista do processo do denunciado, para razões finais escritas, no prazo de cinco dias e, após, a Comissão processante emitir parecer final, pela procedência ou improcedência da acusação, solicitará ao Presidente da Câmara Municipal convocação da sessão para julgamento;
-IX - na sessão de julgamento o processo será lido integralmente e, a seguir, os Vereadores que o desejarem poderão manifestar-se verbalmente, pelo tempo máximo de quinze minutos cada um e, ao final o denunciado, ou o seu procurador, terá o prazo máximo de duas horas para produzir sua defesa oral;
-X - concluída a defesa, proceder-se-á a tantas votações, nominais e secretas, quantas forem as infrações articuladas da denúncia;
-XI - declarado o denunciado, pelo voto de 2/3 (dois terços), pelo menos, dos membros da Câmara Municipal, incurso em qualquer das infrações especificadas da denúncia, o Presidente da Câmara expedirá o competente decreto legislativo da cassação de mandato;
-XII - se resultado da votação for absolutório, o Presidente da Câmara Municipal determinará o arquivamento do processo;
-XIII - em qualquer dos casos, o Presidente da Câmara Municipal comunicará à Justiça Eleitoral o resultado do julgamento;
-XIV - se o julgamento não estiver concluído no prazo de noventa dias, a contar da data da notificação do acusado, para produção de sua defesa, o processo será arquivado sem prejuízo de nova denúncia, ainda que sobre os mesmos fatos.
+~~**§ 2º** De posse da denúncia, o Presidente da Câmara Municipal, na primeira reunião, determinará sua leitura, consultando o plenário sobre o seu recebimento, pelo voto de maioria dos presentes.~~
+
+~~**§ 3º** O processo de julgamento obedecerá as normas seguintes:~~
+
+~~I - recebida a denúncia, na mesma reunião, será constituída Comissão Especial de três Vereadores, sorteados entre os desimpedidos, que, desde logo, elegerão o Presidente e o Relator da Comissão;~~
+
+~~II - no prazo de cinco dias, o Presidente da Comissão iniciará os trabalhos, notificando o denunciado, com remessa de cópia da denúncia e dos documentos que a intuírem para que no prazo de dez dias, o denunciado ofereça defesa prévia, por escrito, indicando as provas que pretenda produzir e arrole testemunhas, até o máximo de dez;~~
+
+~~III - decorrido o prazo de defesa prévia, a Comissão processante emitirá parecer dentro de cinco dias, opinando pelo prosseguimento da denúncia, o qual, neste caso, será submetido à apreciação da Câmara Municipal, que conhecerá ou não da denúncia pelo voto da maioria absoluta dos seus membros;~~
+
+~~IV - rejeitada a denúncia, a mesma será arquivada;~~
+
+~~V - conhecida a denúncia, poderá a Câmara Municipal, pelo voto de dois terços dos seus membros, afastar o Prefeito de suas funções;~~
+
+~~VI - afastado ou não o Prefeito, o Presidente da Comissão designará desde logo, o início da instrução e determinará, no prazo de setenta e duas horas, os atos, diligências e audiências que se fizerem necessárias, para o depoimento do denunciado e inquirição das testemunhas;~~
+
+~~VII - o denunciado deverá ser intimado de todos os atos do processo, pessoalmente, ou na pessoa de seu procurador, com antecedência, pelo menos, de vinte e quatro horas, sendo-lhe permitido assistir às diligências e audiências, bem como inquirir as testemunhas e requerer o que for de interesse da defesa;~~
+
+~~VIII - concluída a instrução, será aberta vista do processo do denunciado, para razões finais escritas, no prazo de cinco dias e, após, a Comissão processante emitir parecer final, pela procedência ou improcedência da acusação, solicitará ao Presidente da Câmara Municipal convocação da sessão para julgamento;~~
+
+~~IX - na sessão de julgamento o processo será lido integralmente e, a seguir, os Vereadores que o desejarem poderão manifestar-se verbalmente, pelo tempo máximo de quinze minutos cada um e, ao final o denunciado, ou o seu procurador, terá o prazo máximo de duas horas para produzir sua defesa oral;~~
+
+~~X - concluída a defesa, proceder-se-á a tantas votações, nominais e secretas, quantas forem as infrações articuladas da denúncia;~~
+
+~~XI - declarado o denunciado, pelo voto de 2/3 (dois terços), pelo menos, dos membros da Câmara Municipal, incurso em qualquer das infrações especificadas da denúncia, o Presidente da Câmara expedirá o competente decreto legislativo da cassação de mandato;~~
+
+~~XII - se resultado da votação for absolutório, o Presidente da Câmara Municipal determinará o arquivamento do processo;~~
+
+~~XIII - em qualquer dos casos, o Presidente da Câmara Municipal comunicará à Justiça Eleitoral o resultado do julgamento;~~
+
+~~XIV - se o julgamento não estiver concluído no prazo de noventa dias, a contar da data da notificação do acusado, para produção de sua defesa, o processo será arquivado sem prejuízo de nova denúncia, ainda que sobre os mesmos fatos.~~
+
+**Art. 132.** As infrações político-administrativas do Prefeito, de julgamento pela Câmara Municipal, são as especificadas na Lei Federal: [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 1º A denúncia de infração político-administrativa, exposta de forma circunstanciada com indicação de provas, será dirigida ao Presidente da Câmara Municipal: [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+I – por qualquer Vereador, que, neste caso, ficará impedido de votar sobre a denúncia e de integrar a comissão processante, podendo, todavia, praticar todos os atos de acusação; [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+II – por partido político em regular funcionamento no Município, atestado pela Justiça Eleitoral; [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+III – por qualquer eleitor inscrito no Município, que comprove esta condição através de certidão emitida pela Justiça Eleitoral. [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 2º De posse da denúncia, o Presidente da Câmara Municipal, na primeira reunião ordinária, determinará sua leitura, encaminho-a, de imediato, à Comissão de Justiça e Redação Final para exarar parecer sobre a sua admissibilidade, em, no máximo, 15 (quinze) dias. [(Redadação dada pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 3º-A. Emitido o parecer sobre a admissibilidade ou não da denúncia pela Comissão de Justiça e Redação Final, este deverá ser distribuído em avulsos para todos os vereadores, e o Presidente da Câmara Municipal, na primeira reunião ordinária, determinará sua inserção na ordem do dia, para que o plenário delibere sobre o seu recebimento. [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 3º-B. Se o parecer da Comissão de Justiça e Redação Final opinar pela admissibilidade da denúncia, o parecer é aprovado e a denúncia recebida pelo voto favorável de 2/3 (dois terços) da Câmara. [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 3º-C. Se o parecer da Comissão de Justiça e Redação Final opinar pela inadmissibilidade da denúncia, o parecer é rejeitado e a denúncia recebida pelo voto contrário de 2/3 (dois terços) da Câmara. [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 3º-D. Rejeitada a denúncia, esta vai ao arquivo. [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+§ 4º Recebida a denúncia, inicia-se o processo de julgamento, que obedecerá às seguintes normas: [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+I – na mesma reunião em que foi recebida a denúncia, será constituída Comissão Especial Processante, composta por três Vereadores, indicados pelos respectivos líderes partidários ou de blocos partidários, respeitada, tanto quanto possível, a proporcionalidade partidária; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+II – em até o prazo de cinco dias, os membros da Comissão elegerão o seu presidente e o Relator do Processo, que iniciará os trabalhos da Comissão, notificando pessoalmente o denunciado, com remessa de cópia da denúncia e dos documentos que a instruírem, para que, no prazo de dez dias úteis, o denunciado ofereça defesa prévia, por escrito, indicando as provas que pretenda produzir e arrole testemunhas, até o máximo de dez; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+III – decorrido o prazo de defesa prévia, a Comissão Especial Processante emitirá parecer dentro de cinco dias, que será submetido à apreciação da Câmara Municipal, na primeira reunião ordinária, que somente conhecerá a denúncia, motivada pelo parecer da Comissão, pelo voto de 2/3 (dois terços) dos seus membros; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+IV – conhecida a denúncia, poderá a Câmara Municipal, pelo voto de dois terços dos seus membros, afastar o Prefeito de suas funções; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+V – afastado ou não o Prefeito, o Presidente da Comissão Especial Processante designará desde logo, o início da instrução e determinará, no prazo de setenta e duas horas, os atos, diligências e audiências que se fizerem necessárias, para o depoimento do denunciado e inquirição das testemunhas; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+VI – o denunciado deverá ser intimado pessoalmente, ou na pessoa de seu procurador, com antecedência de, pelo menos, setenta duas horas, sendo-lhe permitido assistir às diligências e audiências, bem como requerer o que for de interesse da defesa, e ao seu procurador será permitido inquirir as testemunhas; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+VII – concluída a instrução, será aberta vista do processo ao denunciado, para que apresente, por escrito, as suas razões finais, no prazo de cinco dias úteis, para que, em seguida, a Comissão Especial Processante emita o seu parecer final, apontando a procedência ou improcedência da acusação, e solicitando ao Presidente da Câmara Municipal a convocação da sessão para julgamento; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+VIII – na sessão de julgamento o processo será lido integralmente e, a seguir, os Vereadores que o desejarem poderão manifestar-se verbalmente, pelo tempo máximo de quinze minutos cada um e, ao final o denunciado e/ou o seu procurador realizem a defesa oral, pelo prazo máximo de uma hora; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+IX – concluída a defesa, proceder-se-á a tantas votações, nominais e secretas, quantas forem as infrações articuladas na denúncia; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+X – declarado o denunciado, pelo voto de, pelo menos, 2/3 (dois terços) dos membros da Câmara Municipal, incurso em qualquer das infrações especificadas na denúncia, o Presidente da Câmara expedirá o competente decreto legislativo da cassação de mandato; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+XI – se resultado da votação for absolutório, o Presidente da Câmara Municipal determinará o arquivamento do processo;
+XII – em qualquer dos casos, o Presidente da Câmara Municipal comunicará à Justiça Eleitoral e o Ministério Público o resultado do julgamento; [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
+
+XIII – se o julgamento não estiver concluído no prazo de noventa dias, a contar da data da notificação do acusado, para produção de sua defesa, o processo será arquivado sem prejuízo, neste caso, de nova denúncia, ainda que sobre os mesmos fatos. [(Incluído pela Emenda à Lei Orgânica nº 37, de 2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00037-2010.md)
 
 **Art. 133.** Será declarado vago, pela Câmara Municipal, o cargo de Prefeito, quando:
 
