@@ -1,7 +1,25 @@
 site_name: Consulta à Legislação de Maricá
 docs_dir: docs
 
-  palette:
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - search.share
+palette:
     - scheme: default
       primary: be1622       # vermelho para menu
       accent: 04b2e8        # azul para links
