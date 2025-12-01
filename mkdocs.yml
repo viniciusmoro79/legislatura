@@ -1,18 +1,51 @@
-site_name: Documentação Maricá
-docs_dir: legislatura
+site_name: Consulta à Legislação de Maricá
+docs_dir: docs
 
 theme:
   name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - search.share
+palette:
+  - scheme: default
+    primary: be1622       # vermelho do menu
+    accent: 04b2e8        # azul para destaques
+    toggle:
+      icon: material/weather-night
+      name: Mudar para o modo escuro
+
+  - scheme: slate
+    primary: be1622
+    accent: 74e4fb
+    toggle:
+      icon: material/weather-sunny
+      name: Mudar para o modo claro
 
 nav:
   - Início: index.md
+  - Sobre: sobre.md
+  - Como pesquisar: como-pesquisar.md
+  - Fale conosco: fale-conosco.md
 
 markdown_extensions:
   - admonition
   - footnotes
   - toc:
       permalink: true
-
+  - pymdownx.extra
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
@@ -25,4 +58,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink
   - pymdownx.snippets
-  - pymdownx.extra
+
+plugins:
+  - search:
+      lang: pt
+      separator: '[\s\-\.]+'
+  - awesome-pages  
